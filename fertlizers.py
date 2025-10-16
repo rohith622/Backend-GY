@@ -2,25 +2,25 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-
+# Sample data
 fertilizers = [
     {"id": 1, "name": "Urea", "quantity": 50, "price": 700},
     {"id": 2, "name": "DAP", "quantity": 30, "price": 1200}
 ]
 
-
+# GET - Read all fertilizers
 @app.route('/fertilizers', methods=['GET'])
 def get_fertilizers():
     return jsonify(fertilizers)
 
-
+# POST - Add a new fertilizer
 @app.route('/fertilizers', methods=['POST'])
 def add_fertilizer():
     new_fertilizer = request.get_json()
     fertilizers.append(new_fertilizer)
     return jsonify({"message": "Fertilizer added successfully!", "data": new_fertilizer}), 201
 
-
+# PUT - Update fertilizer by id
 @app.route('/fertilizers/<int:id>', methods=['PUT'])
 def update_fertilizer(id):
     for fert in fertilizers:
@@ -29,7 +29,7 @@ def update_fertilizer(id):
             return jsonify({"message": "Fertilizer updated successfully!", "data": fert})
     return jsonify({"message": "Fertilizer not found"}), 404
 
-
+# DELETE - Delete fertilizer by id
 @app.route('/fertilizers/<int:id>', methods=['DELETE'])
 def delete_fertilizer(id):
     for fert in fertilizers:

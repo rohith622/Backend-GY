@@ -939,14 +939,47 @@
     
 
 
-string1="Mango"
-string2="Banana"
-if string1 > string2:
-  print("string 2 graeter than string 1")
+# string1="Mango"
+# string2="Banana"
+# if string1 > string2:
+#   print("string 2 graeter than string 1")
   
   
-
+# string1="Pavan"
+# string2="Pavan"
+# if string1==string2:
+#     print("string 1 equal to string2")
     
+# string1="Bonthu"
+# string2="Bonthu"
+# if string1==string2:
+#     print("Both strings are equal")
+    
+    
+
+# a = 33
+# b = 35
+
+# if a<b:
+#     print("B greater than a")
+# elif a==b:
+#     ("both are equal")  
+
+string1 = "Rohith"
+string2 = "Pavan"
+string3 = "Bhargav"
+
+if string1 < string3:
+    print("Bhargav is greater than Rohith")
+
+if string2 < string3:
+    print("Bhargav is greater than Pavan")
+
+elif string1 == string2 == string3:
+    print("All three are equal")
+
+
+
     
     
 

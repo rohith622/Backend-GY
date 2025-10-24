@@ -965,21 +965,102 @@
 # elif a==b:
 #     ("both are equal")  
 
-string1 = "Rohith"
-string2 = "Pavan"
-string3 = "Bhargav"
+# string1 = "Bhargav"
+# string2 = "Pavan"
+# string3 = "Rohith"
 
-if string1 < string3:
-    print("Bhargav is greater than Rohith")
+# if string1 > string3:
+#     print("Bhargav is greater than Rohith")
 
-if string2 < string3:
-    print("Bhargav is greater than Pavan")
+# if string2 < string3:
+#     print("Bhargav is greater than Pavan")
 
-elif string1 == string2 == string3:
-    print("All three are equal")
+# elif string1 == string2 == string3:
+#     print("All three are equal")
+    
+
+
+# string1 ="banana"
+# string2 ="mango"
+# string3 ="carrot"
+# if string2 >string1:
+#     print("Banana is bigger than mango")
+# if string2 > string3:
+#     print("Banana is bigger than carrot")
+# elif string1 == string2 == string3:
+#     print("all three are equal")
 
 
 
     
+
+# marks = 100
+
+# if marks <= 90:
+#     print("You got an Outstanding")
+# elif marks >= 80:
+#     print("You got an A+ Grade")
+# elif marks >= 60:
+#     print("You got a C Grade")
+# elif marks >= 40:
+#     print("Just Pass")
+# else:
+#     print("Fail")
+    
+    
+# a = 33
+# b = 44
+
+# if b>a:
+#     print("B is greater than A")
+# elif a==b:
+#     print("Both are equal")
+# else:
+#     print("Both are not equal")  
+
+
+
+# inter = 1000 
+
+# if inter >=950:
+#     print("950 marks scored")
+# elif inter >=900:
+#     print("900 marks scored")
+# elif inter >=800:
+#     print("800 marks scored")
+# elif inter >=200:
+#     print("just 200 marks only scored")
+# else:
+#     print("You failed in all subjects")
     
 
+# age=25
+
+# if age>13:
+#     print("You are a child")
+# elif age<20:
+#     print("you are a teenager")
+# elif age<23:
+#     print("you are adult")
+# elif age >=25:
+#     print("you are ready to grow up")
+
+
+day=8
+
+if day==1:
+    print("monday")
+elif day==2:
+    print("tuesday")
+elif  day==3:
+    print("wednesday")
+elif  day==4:
+    print("thursday")
+elif  day==5:
+    print("friday")
+elif  day==6:
+    print("saturday") 
+elif  day==7:
+    print("sunday")
+else:
+    print("null")

@@ -929,10 +929,24 @@
    
    
 
-marks = 900
-if marks>800:
-    print("A grade")
-if  marks>700:
-    print("B grade")
-if  marks>600:
-    print("c garde")
+# marks = 900
+# if marks>800:
+#     print("A grade")
+# if  marks>700:
+#     print("B grade")
+# if  marks>600:
+#     print("c garde")
+    
+
+
+string1="Mango"
+string2="Banana"
+if string1 > string2:
+  print("string 2 graeter than string 1")
+  
+  
+
+    
+    
+    
+

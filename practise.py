@@ -916,4 +916,23 @@
 
 
 
+# string = "fruits"
+# int    = 5
+# if string != int:
+#     print("string and int are not equal")
+    
+    
+# string1 = "rama Krishna"
+# string2 = "prasad rao"
+# if string1>string2:
+#    print("string one is greater than string 2")
+   
+   
 
+marks = 900
+if marks>800:
+    print("A grade")
+if  marks>700:
+    print("B grade")
+if  marks>600:
+    print("c garde")

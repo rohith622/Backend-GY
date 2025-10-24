@@ -1250,3 +1250,26 @@ elif  age<20:
     print("your age less than 20")
 else:
      print("you are foolish")
+     
+     
+     
+a=500
+b=500
+if a<b:
+    print("a greater than b")
+elif a==b:
+    print("both are equal")
+else:
+    print("b is smaller than a")
+    
+    
+a = 700
+b = 900
+
+if a<b:
+    print("a less than b")
+elif a==b:
+    print("Both are equal")
+else:
+    ("b is greater  than a")
+    

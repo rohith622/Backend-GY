@@ -977,6 +977,9 @@ if string2 < string3:
 
 elif string1 == string2 == string3:
     print("All three are equal")
+
+else:
+      print("not equal")
     
 
 
@@ -1211,10 +1214,39 @@ a=700
 b=900
 
 if b<a:
-    print("b is greater than a")
+     print("b is greater than a")
 elif a==b:
-    print("Both are not equal")
+     print("Both are not equal")
 else:
      print("a is smaller than b")
      
+     
+c = 77
+d =90
+
+if d>c:
+    print("d graeter than c")
+elif c==d:
+    print("both are not equal")
+else: 
+    print("c is very less than d")
     
+    
+    
+age = 99
+if age <80:
+    print("your age is less than 90 ")
+elif age >=70:
+    print("your age is less than 80")
+elif age  <60:
+    print("your age is less than 70")
+elif age <50:
+    print("your age is less tham 60")
+elif age<40:
+    print("your age is less than 50 ")
+elif  age<30:
+     print("your age is less than 40")
+elif  age<20:
+    print("your age less than 20")
+else:
+     print("you are foolish")

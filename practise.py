@@ -530,9 +530,9 @@
 # your_list1[2]= "hondacity"
 # print(your_list1)
 
-# # my_list=["powerangers","motupatlu","gearup"]
-# # my_list[3]="kingkong"
-# # print(my_list)
+# my_list = ["powerangers", "motupatlu", "gearup"]
+# my_list.replace("jingam patlu")
+# print(my_list)
 
 # my_list=["powerangers","motupatlu","gearup"]
 # my_list[1:2]="kingkong","mongodb"
@@ -711,28 +711,44 @@
 # print(this_set)
 
 
-thisdict = {
-  "brand": "Ford",
-  "model": "Mustang",
-  "year": 1964
-}
-thisdict["year"] = 2018
-print(thisdict)
+# thisdict = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
+# thisdict["year"] = 2018
+# print(thisdict)
 
-this_dict = {
-    "shop name":"Gaythri Enterprises",
-    "employee" :"suryanaryana",
-    "co employee":"mahesh",
-    "established":2020,
-}
-this_dict["shop type"]="pesticides"
-print(this_dict)
+# this_dict = {
+#     "shop name":"Gaythri Enterprises",
+#     "employee" :"suryanaryana",
+#     "co employee":"mahesh",
+#     "established":2020,
+# }
+# this_dict["shop type"]="pesticides"
+# print(this_dict)
 
-this_dict = {
-    "city" : "vizag",
-    "pollution":"less",
-    "Bus type" :"ordinary",
-    "cost":25
-}
-this_dict.pop("cost")
-print(this_dict)
+# this_dict = {
+#     "city" : "vizag",
+#     "pollution":"less",
+#     "Bus type" :"ordinary",
+#     "cost":25
+# }
+# this_dict.pop("cost")
+# print(this_dict)
+
+# my_list = ["powerangers", "motupatlu", "gearup"]
+# pos = my_list.index("motupatlu")
+# my_list[pos] = "jingam patlu"
+# print(my_list)
+
+# age = 77
+# if age >0:
+#     print("print 77 is greater")
+
+a=33
+b=34
+if a<b:
+print("b is bigger")
+
+

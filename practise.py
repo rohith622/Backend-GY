@@ -1046,21 +1046,83 @@
 #     print("you are ready to grow up")
 
 
-day=8
+#day=8
 
-if day==1:
-    print("monday")
-elif day==2:
-    print("tuesday")
-elif  day==3:
-    print("wednesday")
-elif  day==4:
-    print("thursday")
-elif  day==5:
-    print("friday")
-elif  day==6:
-    print("saturday") 
-elif  day==7:
-    print("sunday")
+# if day==1:
+#     print("monday")
+# elif day==2:
+#     print("tuesday")
+# elif  day==3:
+#     print("wednesday")
+# elif  day==4:
+#     print("thursday")
+# elif  day==5:
+#     print("friday")
+# elif  day==6:
+#     print("saturday") 
+# elif  day==7:
+#     print("sunday")
+# else:
+#     print("null")
+    
+    
+    
+# score=95
+
+# if score<=20:
+#     print("you are the looser")
+# elif score >=80:
+#     print("you are the winner")
+# elif score >=50:
+#     print("average score")
+# else:
+#     print("you are the looser")
+    
+    
+# milk = 45 
+
+# if milk <=5:
+#   print("tanker is going to be empty")
+# elif milk <=15:
+#   print("still 15litres of milk is there")
+# elif milk <=25:
+#     print("tanker consists 25 litres milks")
+# else:
+#     print("tanker is empty")
+    
+    
+# cost =9000
+
+# if cost<=6999:
+#    print("you can buy a recliner")
+# elif cost<=5000:
+#     print("you  can buy a dresing table ")
+# elif cost>=9000:
+#     print("you can buy what you want")
+# else:
+#     print("cash back money is completed")
+    
+    
+# ticket =500
+
+# if ticket<=100:
+#     print("you can sit in balcony")
+# elif ticket<200:
+#     print("you are elgibule to sit in seat")
+# elif ticket<400:
+#     print("you are elgibule to sit in sofa")
+# elif ticket == 500:
+#     print("you  can sit on recliner")
+# else:
+#     print("you need to get your money")
+    
+price = 800
+
+if price >= 800:
+    print("You will get an excellent room")
+elif price >= 700:
+    print("You will get a single bed room")
+elif price >= 500:
+    print("You will get a normal room")
 else:
-    print("null")
+    print("You will get an ordinary room")

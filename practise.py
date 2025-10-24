@@ -839,282 +839,282 @@
 #   print("out standing")
     
         
-# string1 = "sai"
-# string2 = "sai"
-# if string1 == string2:
-#     print("Strings are equal")
+string1 = "sai"
+string2 = "sai"
+if string1 == string2:
+    print("Strings are equal")
     
-# string1 = "Mahesh"
-# string2 = "pavan"
+string1 = "Mahesh"
+string2 = "pavan"
 
-# if string1 >= string2:
-#     print("string1 is greater than string2")
-# else:
-#     print("string2 is greater than string1")
+if string1 >= string2:
+    print("string1 is greater than string2")
+else:
+    print("string2 is greater than string1")
     
-    
-
-# string1="apple"
-# string2="apple"
-# if string1==string2:
-#      print("Both strings are equal")
     
 
-# string1="rohith"
-# string2="Bhargav"
-# if string1==string2:
-#    print("strings are equal")
-# else:
-#     print("Both strings are not euqal")
+string1="apple"
+string2="apple"
+if string1==string2:
+     print("Both strings are equal")
     
 
-# score = 1000
-# if score >=950:
-#     print("outstanding perfomance")
-
-    
-# is_logged_in = True
-# if is_logged_in:
-#   print("Welcome back!")
-
-# is_log_out = False
-# if is_log_out:
-#    print("Good Bye")
-
-# Boys = 900
-# girls = 850
-# if Boys > girls:
-#     print("Boys count very high compare with girls count")
+string1="rohith"
+string2="Bhargav"
+if string1==string2:
+   print("strings are equal")
+else:
+    print("Both strings are not euqal")
     
 
-# Boys = 900
-# girls = 850
-# if Boys >= girls:
-#     print("Both are equal")
+score = 1000
+if score >=950:
+    print("outstanding perfomance")
+
     
-# Boys = 900
-# girls = 850
-# if Boys != girls:
-#     print("Both are not  equal")
+is_logged_in = True
+if is_logged_in:
+  print("Welcome back!")
+
+is_log_out = False
+if is_log_out:
+   print("Good Bye")
+
+Boys = 900
+girls = 850
+if Boys > girls:
+    print("Boys count very high compare with girls count")
+    
+
+Boys = 900
+girls = 850
+if Boys >= girls:
+    print("Both are equal")
+    
+Boys = 900
+girls = 850
+if Boys != girls:
+    print("Both are not  equal")
     
     
-# Boys = 400
-# girls = 400
-# if Boys==girls:
-#     print("Both are equal")
+Boys = 400
+girls = 400
+if Boys==girls:
+    print("Both are equal")
     
     
-# Float1 = 14.5
-# Float2 = 14.5
-# if Float1 == Float2:
-#    print("floats are equal")
+Float1 = 14.5
+Float2 = 14.5
+if Float1 == Float2:
+   print("floats are equal")
    
-# string1 = "Apple"
-# string2 = "Banana"
-# if string1 < string2:
-#     print("string1 less than string2")
+string1 = "Apple"
+string2 = "Banana"
+if string1 < string2:
+    print("string1 less than string2")
 
 
 
-# string = "fruits"
-# int    = 5
-# if string != int:
-#     print("string and int are not equal")
+string = "fruits"
+int    = 5
+if string != int:
+    print("string and int are not equal")
     
     
-# string1 = "rama Krishna"
-# string2 = "prasad rao"
-# if string1>string2:
-#    print("string one is greater than string 2")
+string1 = "rama Krishna"
+string2 = "prasad rao"
+if string1>string2:
+   print("string one is greater than string 2")
    
    
 
-# marks = 900
-# if marks>800:
-#     print("A grade")
-# if  marks>700:
-#     print("B grade")
-# if  marks>600:
-#     print("c garde")
+marks = 900
+if marks>800:
+    print("A grade")
+if  marks>700:
+    print("B grade")
+if  marks>600:
+    print("c garde")
     
 
 
-# string1="Mango"
-# string2="Banana"
-# if string1 > string2:
-#   print("string 2 graeter than string 1")
+string1="Mango"
+string2="Banana"
+if string1 > string2:
+  print("string 2 graeter than string 1")
   
   
-# string1="Pavan"
-# string2="Pavan"
-# if string1==string2:
-#     print("string 1 equal to string2")
+string1="Pavan"
+string2="Pavan"
+if string1==string2:
+    print("string 1 equal to string2")
     
-# string1="Bonthu"
-# string2="Bonthu"
-# if string1==string2:
-#     print("Both strings are equal")
-    
-    
-
-# a = 33
-# b = 35
-
-# if a<b:
-#     print("B greater than a")
-# elif a==b:
-#     ("both are equal")  
-
-# string1 = "Bhargav"
-# string2 = "Pavan"
-# string3 = "Rohith"
-
-# if string1 > string3:
-#     print("Bhargav is greater than Rohith")
-
-# if string2 < string3:
-#     print("Bhargav is greater than Pavan")
-
-# elif string1 == string2 == string3:
-#     print("All three are equal")
-    
-
-
-# string1 ="banana"
-# string2 ="mango"
-# string3 ="carrot"
-# if string2 >string1:
-#     print("Banana is bigger than mango")
-# if string2 > string3:
-#     print("Banana is bigger than carrot")
-# elif string1 == string2 == string3:
-#     print("all three are equal")
-
-
-
-    
-
-# marks = 100
-
-# if marks <= 90:
-#     print("You got an Outstanding")
-# elif marks >= 80:
-#     print("You got an A+ Grade")
-# elif marks >= 60:
-#     print("You got a C Grade")
-# elif marks >= 40:
-#     print("Just Pass")
-# else:
-#     print("Fail")
+string1="Bonthu"
+string2="Bonthu"
+if string1==string2:
+    print("Both strings are equal")
     
     
-# a = 33
-# b = 44
 
-# if b>a:
-#     print("B is greater than A")
-# elif a==b:
-#     print("Both are equal")
-# else:
-#     print("Both are not equal")  
+a = 33
+b = 35
 
+if a<b:
+    print("B greater than a")
+elif a==b:
+    ("both are equal")  
 
+string1 = "Bhargav"
+string2 = "Pavan"
+string3 = "Rohith"
 
-# inter = 1000 
+if string1 > string3:
+    print("Bhargav is greater than Rohith")
 
-# if inter >=950:
-#     print("950 marks scored")
-# elif inter >=900:
-#     print("900 marks scored")
-# elif inter >=800:
-#     print("800 marks scored")
-# elif inter >=200:
-#     print("just 200 marks only scored")
-# else:
-#     print("You failed in all subjects")
+if string2 < string3:
+    print("Bhargav is greater than Pavan")
+
+elif string1 == string2 == string3:
+    print("All three are equal")
     
 
-# age=25
 
-# if age>13:
-#     print("You are a child")
-# elif age<20:
-#     print("you are a teenager")
-# elif age<23:
-#     print("you are adult")
-# elif age >=25:
-#     print("you are ready to grow up")
+string1 ="banana"
+string2 ="mango"
+string3 ="carrot"
+if string2 >string1:
+    print("Banana is bigger than mango")
+if string2 > string3:
+    print("Banana is bigger than carrot")
+elif string1 == string2 == string3:
+    print("all three are equal")
 
 
-#day=8
 
-# if day==1:
-#     print("monday")
-# elif day==2:
-#     print("tuesday")
-# elif  day==3:
-#     print("wednesday")
-# elif  day==4:
-#     print("thursday")
-# elif  day==5:
-#     print("friday")
-# elif  day==6:
-#     print("saturday") 
-# elif  day==7:
-#     print("sunday")
-# else:
-#     print("null")
     
-    
-    
-# score=95
 
-# if score<=20:
-#     print("you are the looser")
-# elif score >=80:
-#     print("you are the winner")
-# elif score >=50:
-#     print("average score")
-# else:
-#     print("you are the looser")
-    
-    
-# milk = 45 
+marks = 100
 
-# if milk <=5:
-#   print("tanker is going to be empty")
-# elif milk <=15:
-#   print("still 15litres of milk is there")
-# elif milk <=25:
-#     print("tanker consists 25 litres milks")
-# else:
-#     print("tanker is empty")
+if marks <= 90:
+    print("You got an Outstanding")
+elif marks >= 80:
+    print("You got an A+ Grade")
+elif marks >= 60:
+    print("You got a C Grade")
+elif marks >= 40:
+    print("Just Pass")
+else:
+    print("Fail")
     
     
-# cost =9000
+a = 33
+b = 44
 
-# if cost<=6999:
-#    print("you can buy a recliner")
-# elif cost<=5000:
-#     print("you  can buy a dresing table ")
-# elif cost>=9000:
-#     print("you can buy what you want")
-# else:
-#     print("cash back money is completed")
-    
-    
-# ticket =500
+if b>a:
+    print("B is greater than A")
+elif a==b:
+    print("Both are equal")
+else:
+    print("Both are not equal")  
 
-# if ticket<=100:
-#     print("you can sit in balcony")
-# elif ticket<200:
-#     print("you are elgibule to sit in seat")
-# elif ticket<400:
-#     print("you are elgibule to sit in sofa")
-# elif ticket == 500:
-#     print("you  can sit on recliner")
-# else:
-#     print("you need to get your money")
+
+
+inter = 1000 
+
+if inter >=950:
+    print("950 marks scored")
+elif inter >=900:
+    print("900 marks scored")
+elif inter >=800:
+    print("800 marks scored")
+elif inter >=200:
+    print("just 200 marks only scored")
+else:
+    print("You failed in all subjects")
+    
+
+age=25
+
+if age>13:
+    print("You are a child")
+elif age<20:
+    print("you are a teenager")
+elif age<23:
+    print("you are adult")
+elif age >=25:
+    print("you are ready to grow up")
+
+
+day=8
+
+if day==1:
+    print("monday")
+elif day==2:
+    print("tuesday")
+elif  day==3:
+    print("wednesday")
+elif  day==4:
+    print("thursday")
+elif  day==5:
+    print("friday")
+elif  day==6:
+    print("saturday") 
+elif  day==7:
+    print("sunday")
+else:
+    print("null")
+    
+    
+    
+score=95
+
+if score<=20:
+    print("you are the looser")
+elif score >=80:
+    print("you are the winner")
+elif score >=50:
+    print("average score")
+else:
+    print("you are the looser")
+    
+    
+milk = 45 
+
+if milk <=5:
+  print("tanker is going to be empty")
+elif milk <=15:
+  print("still 15litres of milk is there")
+elif milk <=25:
+    print("tanker consists 25 litres milks")
+else:
+    print("tanker is empty")
+    
+    
+cost =9000
+
+if cost<=6999:
+   print("you can buy a recliner")
+elif cost<=5000:
+    print("you  can buy a dresing table ")
+elif cost>=9000:
+    print("you can buy what you want")
+else:
+    print("cash back money is completed")
+    
+    
+ticket =500
+
+if ticket<=100:
+    print("you can sit in balcony")
+elif ticket<200:
+    print("you are elgibule to sit in seat")
+elif ticket<400:
+    print("you are elgibule to sit in sofa")
+elif ticket == 500:
+    print("you  can sit on recliner")
+else:
+    print("you need to get your money")
     
 price = 800
 
@@ -1126,3 +1126,95 @@ elif price >= 500:
     print("You will get a normal room")
 else:
     print("You will get an ordinary room")
+    
+
+age = 18
+
+if age<=18:
+    print("you are elgible to vote")
+elif age<=17:
+    print("you are a teenager")
+elif age<=10:
+    print("you are a children")
+else:
+    print("you are not elgibule to vote")
+        
+        
+        
+a=700
+b=600
+
+if a>b:
+    print("a is greater than b")
+elif a == b:
+    print("a equal to b ")
+else:
+     print("both are not equal")
+     
+     
+x = 77
+
+if x <= 10:
+    print("not equal")
+elif x == 77:
+    print("it's equal")
+else:
+    print("not equal")
+    
+    
+    
+a= 77
+b= 80
+
+if a<b:
+    print("a is less  than b")
+elif a==b:
+    print("both a anb are not equal")
+else:
+    print("u can print")
+    
+    
+x=900
+y=1000
+
+if x<y:
+    print("x is less than y")
+elif x==y:
+    print("both are not equal")
+else:
+    print("stupid")
+
+
+a=5000
+b=7000
+
+if a<b:
+    print("a is less than b")
+elif x==y:
+    print("print both are not equal")
+else:
+     print("nothing")
+     
+     
+a = 600
+b = 600
+
+if a<b:
+    print("Both are not  equal ")
+elif a==b:
+    print("Both are equal")
+else:
+    print("both are same")
+    
+    
+a=700
+b=900
+
+if b<a:
+    print("b is greater than a")
+elif a==b:
+    print("Both are not equal")
+else:
+     print("a is smaller than b")
+     
+    

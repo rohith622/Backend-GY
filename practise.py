@@ -1273,3 +1273,26 @@ elif a==b:
 else:
     ("b is greater  than a")
     
+list1=[10,20,30,40]
+list2=[30,40,50.20]
+list3=[10,20,30,40]
+
+if list1<list2:
+    print("list2 greater than list1")
+elif list3==list1:
+    print("both lists are equal")
+elif list2>list1:
+    print("list2 greater than list 1")
+else:
+    print("all lists are different size")
+    
+my_tuple1=("10,20,30")
+my_tuple2=("10,1,2,3")
+my_tuple3=("20,2,1,3")
+ 
+if my_tuple1>my_tuple3:
+     print("tuple 1 is grter than 2")
+elif my_tuple3<my_tuple2:
+    print("tuple 2 is greater than tuple 3")
+else:
+     print("both tuples are only big")

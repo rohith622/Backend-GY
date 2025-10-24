@@ -746,9 +746,174 @@
 # if age >0:
 #     print("print 77 is greater")
 
-a=33
-b=34
-if a<b:
-print("b is bigger")
+# a=33
+# b=34
+# if a<b:
+# print("b is bigger")
+
+
+# my_list=["man","women","girl","children"]
+# my_list.pop()
+# print(my_list)
+
+
+# my_list=["man","women","girl","children"]
+# my_list.append("stupid")
+# print(my_list)
+
+# my_dict ={
+#     "name":"Rohith",
+#     "age":22,
+#     "Gender":"Male",
+#     "year of birth":2002
+# }
+# my_dict["study"]="btech"
+# print(my_dict)
+
+# my_tuple=("mango","greenery","yellow","magzine")
+# print(my_tuple[2])
+
+
+# a=47
+
+# b=58
+
+# if b > a:
+#  print("B is greater than a")
+ 
+ 
+# age = 22
+# if age>=18:
+#   print("you are elgibule to vote")
+#   print("you are not elgibule to vote")
+ 
+ 
+# a=400
+# b=500
+# if b>a:
+#     print("b is greater than a")
+
+
+
+# age = 45
+# if age>=24:
+#     print("you are a middle age man")
+    
+# x = 77
+# if x>=18:
+#   print("you are a teenager")
+  
+# a = 47
+# b = 39
+# if a>b:
+#     print("a is greater than b")
+    
+    
+    
+# a = 47
+# b = 39
+# if a>=b:
+#     print("its equal")
+
+# a = 99
+# b = 10
+
+# if a == b:
+#     print("both are equal")
+
+
+# x=99
+# if x > 30:
+#   print("ninty nine greater than 30")
+  
+
+
+
+# score = 88
+# if score >50:
+#   print("you got c grade")
+
+
+# score = 96
+# if score >=98:
+#   print("out standing")
+    
+        
+# string1 = "sai"
+# string2 = "sai"
+# if string1 == string2:
+#     print("Strings are equal")
+    
+# string1 = "Mahesh"
+# string2 = "pavan"
+
+# if string1 >= string2:
+#     print("string1 is greater than string2")
+# else:
+#     print("string2 is greater than string1")
+    
+    
+
+# string1="apple"
+# string2="apple"
+# if string1==string2:
+#      print("Both strings are equal")
+    
+
+# string1="rohith"
+# string2="Bhargav"
+# if string1==string2:
+#    print("strings are equal")
+# else:
+#     print("Both strings are not euqal")
+    
+
+# score = 1000
+# if score >=950:
+#     print("outstanding perfomance")
+
+    
+# is_logged_in = True
+# if is_logged_in:
+#   print("Welcome back!")
+
+# is_log_out = False
+# if is_log_out:
+#    print("Good Bye")
+
+# Boys = 900
+# girls = 850
+# if Boys > girls:
+#     print("Boys count very high compare with girls count")
+    
+
+# Boys = 900
+# girls = 850
+# if Boys >= girls:
+#     print("Both are equal")
+    
+# Boys = 900
+# girls = 850
+# if Boys != girls:
+#     print("Both are not  equal")
+    
+    
+# Boys = 400
+# girls = 400
+# if Boys==girls:
+#     print("Both are equal")
+    
+    
+# Float1 = 14.5
+# Float2 = 14.5
+# if Float1 == Float2:
+#    print("floats are equal")
+   
+# string1 = "Apple"
+# string2 = "Banana"
+# if string1 < string2:
+#     print("string1 less than string2")
+
+
 
 

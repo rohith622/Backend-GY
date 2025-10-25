@@ -1288,15 +1288,15 @@
     
     
 
-list1=["Alpha", "10",10,20]
-list2=["Alpha","10",10,20]
+# list1=["Alpha", "10",10,20]
+# list2=["Alpha","10",10,20]
 
-if list1>list2:
-    print("List1 is greater")
-elif list1==list2:
-    print("Lists are equal")
-else:
-    print("List2 is greater")
+# if list1>list2:
+#     print("List1 is greater")
+# elif list1==list2:
+#     print("Lists are equal")
+# else:
+#     print("List2 is greater")
     
     
 list1=["pavan","bhargav","rohith"]
@@ -1372,6 +1372,7 @@ elif string2>string1:
 else:
     print("strings are not equal")   
     
+    
 string1="SACHIN TENDULKAR"
 string2="SACHIN TENDULKAR"
 if string1>string2:
@@ -1422,6 +1423,7 @@ else:
     print("both tuples are not equal")
 
 
+
 my_list1=["man","Women","girl","Children","Childish","ABHISHEIKH SHARMA"]
 my_list2=["Sachin","Dhoni","kohli","Rohithsharma","Suryakumar Yadav"]
 if my_list1>my_list2:
@@ -1430,6 +1432,7 @@ elif my_list2>my_list2:
     print("list 2 greater")
 else:
     print("lists are not equal")          
+
 
 
 my_list1=["maheshbabu","prabhas","junior Ntr","ram","kalyan ram","Ram charan"]
@@ -1460,4 +1463,124 @@ elif string2>string1:
     print("string 2 is greater")
 else:
     print("Both are different strings")
+    
 
+
+my_list1=["daikin","lloyd","Lg","onida"]
+my_list2=["DAIKIN","LLOYD","LG","ONIDA"]
+if my_list1>my_list2:
+    print("list one is greater")
+elif my_list2>my_list1:
+    print("list two is greater")
+else:
+    print("both lists are not equal")
+    
+    
+    
+      
+
+my_list1=["scorpio","Bolero","XUV700","XUV500","TUV300"]
+my_list2=["Creta","Honda city","Alcazar"]
+if my_list1>my_list2:
+    print("list one is greater")
+elif my_list2>my_list1:
+    print("list 2 is graeter")
+else:
+    print("Both lists are not equal")
+    
+    
+    
+my_list1=["apple","mango","banana","cherry"]
+my_list2=["17,18,19,20"]
+if my_list1>my_list2:
+    print("list 1 is greater")
+elif my_list2>my_list1:
+    print("list 2 is graeatr")
+else:
+    print("two different lists")
+    
+my_list1 = ["apple", "mango", "banana", "cherry"]
+my_list2 = ["grape", "orange", "kiwi", "melon"]
+if my_list1 > my_list2:
+    print("list 1 is greater")
+elif my_list2 > my_list1:
+    print("list 2 is greater")
+else:
+    print("both lists are equal")
+
+
+list1 = ["Rohith", "Pavan", "Avinash", "Bhargav"]
+list2 = ["Srinu", "Vamsi", "Manoj", "Kiran"]
+
+if list1 > list2:
+    print("list 1 is greater")
+elif list2 > list1:
+    print("list 2 is greater")
+else:
+    print("both lists are equal")
+    
+    
+
+    
+list1 = ["cat", "dog", "elephant", "lion"]
+list2 = ["ant", "bear", "zebra", "tiger"]
+
+if list1 > list2:
+    print("list 1 is greater")
+elif list2 > list1:
+    print("list 2 is greater")
+else:
+    print("both lists are equal")
+
+
+
+
+list1 = ["mango", "apple", "kiwi"]
+list2 = ["banana", "grape", "peach"]
+
+if list1 > list2:
+    print("list 1 is greater")
+elif list2 > list1:
+    print("list 2 is greater")
+else:
+    print("both lists are equal")
+    
+    
+    
+
+list1 = ["delta", "bravo", "alpha"]
+list2 = ["echo", "foxtrot", "golf"]
+
+if list1 > list2:
+    print("list 1 is greater")
+elif list2 > list1:
+    print("list 2 is greater")
+else:
+    print("both lists are equal")
+    
+    
+    
+
+list1 = ["king", "queen", "joker"]
+list2 = ["ace", "jack", "ten"]
+if list1 > list2:
+    print("list 1 is greater")
+elif list2 > list1:
+    print("list 2 is greater")
+else:
+    print("both lists are equal")
+    
+    
+
+fruits = ["apple", "banana", "cherry"]
+
+for fruit in fruits:
+    print(fruit)
+    
+
+a = ["10", "20", "30", "40"]
+
+for i in a:
+    print(i)
+  
+  

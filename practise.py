@@ -1198,106 +1198,6 @@
 # else:
 #      print("nothing")
      
-     
-# a = 600
-# b = 600
-
-# if a<b:
-#     print("Both are not  equal ")
-# elif a==b:
-#     print("Both are equal")
-# else:
-#     print("both are same")
-    
-    
-# a=700
-# b=900
-
-# if b<a:
-#      print("b is greater than a")
-# elif a==b:
-#      print("Both are not equal")
-# else:
-#      print("a is smaller than b")
-     
-     
-# c = 77
-# d =90
-
-# if d>c:
-#     print("d graeter than c")
-# elif c==d:
-#     print("both are not equal")
-# else: 
-#     print("c is very less than d")
-    
-    
-    
-# age = 99
-# if age <80:
-#     print("your age is less than 90 ")
-# elif age >=70:
-#     print("your age is less than 80")
-# elif age  <60:
-#     print("your age is less than 70")
-# elif age <50:
-#     print("your age is less tham 60")
-# elif age<40:
-#     print("your age is less than 50 ")
-# elif  age<30:
-#      print("your age is less than 40")
-# elif  age<20:
-#     print("your age less than 20")
-# else:
-#      print("you are foolish")
-     
-     
-     
-# a=500
-# b=500
-# if a<b:
-#     print("a greater than b")
-# elif a==b:
-#     print("both are equal")
-# else:
-#     print("b is smaller than a")
-    
-    
-# a = 700
-# b = 900
-
-# if a<b:
-#     print("a less than b")
-# elif a==b:
-#     print("Both are equal")
-# else:
-#     ("b is greater  than a")
-    
-# list2=[10,10,10.20]
-# list1=[10,20,30,40]
-# list3=[10,20,30,40]
-
-# if list1<list2:
-#     print("list2 greater than list1")
-# elif list3==list1:
-#     print("both lists are equal")
-# elif list2>list1:
-#     print("list2 greater than list 1")
-# else:
-#     print("all lists are different size")
-    
-    
-
-# list1=["Alpha", "10",10,20]
-# list2=["Alpha","10",10,20]
-
-# if list1>list2:
-#     print("List1 is greater")
-# elif list1==list2:
-#     print("Lists are equal")
-# else:
-#     print("List2 is greater")
-    
     
 list1=["pavan","bhargav","rohith"]
 list2=["Srinu","Vamsi546","Avinash"]
@@ -1578,9 +1478,35 @@ for fruit in fruits:
     print(fruit)
     
 
-a = ["10", "20", "30", "40"]
+persons = ["ramu","gokul","raghu","kiran","vamsi"]
+for persons in persons:
+    print(persons)
+    
 
-for i in a:
+
+
+
+for i in "sachin tendulkar":
+    print (i)
+    
+    
+names=["rohith","bhargav","pavan"]
+for i in names:
     print(i)
-  
-  
+    if i=="bhargav":
+        break
+    
+cars=["scorpio","Bolero","fiat"]
+for i in cars:
+    print(i)
+    if i>"Bolero":
+        break
+    
+    
+    
+    
+numbers=[1,12,30]
+for in numbers:
+    print(i)
+     break
+ 

@@ -1,842 +1,838 @@
-# # print("hello"); print("bye bye");print("see you") 
+# print("hello"); print("bye bye");print("see you") 
 
 
 
 
-# # print("Hello World!", end=" ")
-# # print('I will print on the same line.')
+# print("Hello World!", end=" ")
+# print('I will print on the same line.')
 
 
 
 
-# # print(3)
-# # print(358)
-# # print(50000)
+# print(3)
+# print(358)
+# print(50000)
 
-# # print(2+5)
-# # print(33*8)
+# print(2+5)
+# print(33*8)
 
-# # print("I am Rohith",   22, "years old.")
-
-
-
-# # x = "Python "
-# # y = "is "
-# # z = "awesome"
-# # print(x)
-# # print(y)
-# # print(z)
+# print("I am Rohith",   22, "years old.")
 
 
 
-# # a = 200
-# # b = 33
-
-# # if b > a:
-# #   print("b is greater than a")
-# # else:
-# #   print("b is not greater than a")
-
-
-
-# # age = 19
-
-# # if age >=18:
-# #     print("your an adult.")
-
-# # elif 18==19:
-# #     print("You can child")
-
-# # else:
-# #     print("you are a minor")
+# x = "Python "
+# y = "is "
+# z = "awesome"
+# print(x)
+# print(y)
+# print(z)
 
 
 
+# a = 200
+# b = 33
 
-# # totallmarks = 365
+# if b > a:
+#   print("b is greater than a")
+# else:
+#   print("b is not greater than a")
 
-# # if totallmarks >=150:
-# #     print("pass")
-# # elif 365==100:
-# #     print("fail")
-# # else :
-# #        print("equal")
+
+
+# age = 19
+
+# if age >=18:
+#     print("your an adult.")
+
+# elif 18==19:
+#     print("You can child")
+
+# else:
+#     print("you are a minor")
+
+
+
+
+# totallmarks = 365
+
+# if totallmarks >=150:
+#     print("pass")
+# elif 365==100:
+#     print("fail")
+# else :
+#        print("equal")
 
 
 
   
-# # totallchairs = 75
+# totallchairs = 75
 
-# # if totallchairs <=10:
-# #     print("missing")
-# # elif 75==10:
-# #     print("added")
-# # else:
-# #     print("totall 80")
+# if totallchairs <=10:
+#     print("missing")
+# elif 75==10:
+#     print("added")
+# else:
+#     print("totall 80")
 
 
 
-# # totallBuffaloes = 30
+# totallBuffaloes = 30
 
-# # if totallBuffaloes >=5:
-# #     print("")
+# if totallBuffaloes >=5:
+#     print("")
 
 
 
-# # print("hello india")
-# # print("hello rohith")
-# # print("all  over indiA")
+# print("hello india")
+# print("hello rohith")
+# print("all  over indiA")
 
-# # print("india is great"); print("india is over");  print("all over india")
+# print("india is great"); print("india is over");  print("all over india")
 
-# # print(354); print(408); print(510) 
+# print(354); print(408); print(510) 
 
 
-# # print("I am rohit",24,"years old")
+# print("I am rohit",24,"years old")
 
-# # x=45
-# # y=45
-# # print(x,y)
+# x=45
+# y=45
+# print(x,y)
 
-# # name="alice"
-# # age=23
-# # is_active=True
-# # print(name,age,is_active)
+# name="alice"
+# age=23
+# is_active=True
+# print(name,age,is_active)
 
 
 
-# # Name="rohith"
-# # age=23
-# # gender="male"
-# # education="B.tech"
-# # city="vizag"
-# # print(Name,age,gender,education,city)
+# Name="rohith"
+# age=23
+# gender="male"
+# education="B.tech"
+# city="vizag"
+# print(Name,age,gender,education,city)
 
 
 
-# # Name,age,Gender,education,city,="rohith",23,"male","B.tech","vizag"
-# # print(Name,age,Gender,education,city)
+# Name,age,Gender,education,city,="rohith",23,"male","B.tech","vizag"
+# print(Name,age,Gender,education,city)
 
 
 
-# # name=city=town="vizag"
-# # print(name)
-# # print(city)
-# # print(town)
+# name=city=town="vizag"
+# print(name)
+# print(city)
+# print(town)
 
 
 
-# # age=weight=height=22
-# # print(age)
-# # print(height)
-# # print(weight)
+# age=weight=height=22
+# print(age)
+# print(height)
+# print(weight)
 
 
 
 
-# # # unpack list 
+# # unpack list 
 
-# # person=["rohith",22,"Male",6.2]
-# # x,y,z,l= (person)
-# # print(x)
-# # print(l)
+# person=["rohith",22,"Male",6.2]
+# x,y,z,l= (person)
+# print(x)
+# print(l)
 
 
 
 
-# # Villagers=["people","gratitude","rashness","Doing Hard work"]
-# # a,b,c,d=(Villagers)
-# # print(a)
-# # print(d)
-# # print(b)
-# # print(c)
+# Villagers=["people","gratitude","rashness","Doing Hard work"]
+# a,b,c,d=(Villagers)
+# print(a)
+# print(d)
+# print(b)
+# print(c)
 
 
 
-# # # output varaiables
+# # output varaiables
 
-# # print("my name is rohith i recently graduate from gitam univesrsity, 2025, year passed out")
+# print("my name is rohith i recently graduate from gitam univesrsity, 2025, year passed out")
 
-# # x=1000
-# # y="Rohith"
-# # hero=0
-# # print(x,y,hero)
+# x=1000
+# y="Rohith"
+# hero=0
+# print(x,y,hero)
 
 
 
-# # # Data types
+# # Data types
 
-# # x=22
-# # print(type(x))
+# x=22
+# print(type(x))
 
-# # x="rohith is a good boy"
-# # print(type(x))
+# x="rohith is a good boy"
+# print(type(x))
 
-# # x=22.5
-# # print(type(x))
+# x=22.5
+# print(type(x))
 
-# # x=True
-# # print(type(x))
+# x=True
+# print(type(x))
 
-# # x=1j
-# # print(type(x))
+# x=1j
+# print(type(x))
 
-# # x=["apple","banana","cherry"]
-# # print(type(x))
+# x=["apple","banana","cherry"]
+# print(type(x))
 
-# # x=("apple","mango","watermelon")
-# # print(type(x))
+# x=("apple","mango","watermelon")
+# print(type(x))
 
-# # x={"apple","mango","watermelon"}
-# # print(type(x))
+# x={"apple","mango","watermelon"}
+# print(type(x))
 
-# # name="rohith"
-# # age=23
-# # city="vizag"
-# # costofstudy=10.90
-# # print (type(name))
+# name="rohith"
+# age=23
+# city="vizag"
+# costofstudy=10.90
+# print (type(name))
 
 
 
-# # # python strings
+# # python strings
 
-# # print("he is the hero")
-# # print('he is good boy')
+# print("he is the hero")
+# print('he is good boy')
 
 
-# # R = "rohith Bonthu"
-# # print(R)
+# R = "rohith Bonthu"
+# print(R)
 
-# # a="Rohith is Graduated from gitam univesrsity"
-# # print(a)
+# a="Rohith is Graduated from gitam univesrsity"
+# print(a)
 
 
 
-# # # Slicing Strings
+# # Slicing Strings
 
 
 
 
 
 
-# # b= "Gitam University"
-# # print(b[3:4])
+# b= "Gitam University"
+# print(b[3:4])
 
 
-# # c=("Gitam is the one of the top most university")
-# # print(c[5:8])
+# c=("Gitam is the one of the top most university")
+# print(c[5:8])
 
 
-# # k=("king is not beware person")
-# # print(k[3:9])
+# k=("king is not beware person")
+# print(k[3:9])
 
 
 
-# # # if we want to slice from ldmle2jojiorjeoi
+# # if we want to slice from ldmle2jojiorjeoi
 
-# # z=("Scorpio n")
-# # print(z[:3])
+# z=("Scorpio n")
+# print(z[:3])
 
-# # h=("fiat punto")
-# # print(h[:6])
+# h=("fiat punto")
+# print(h[:6])
 
-# # # if we want to slice from ending
+# # if we want to slice from ending
 
-# # f="we want to slice from ending"
-# # print(f[3:])
+# f="we want to slice from ending"
+# print(f[3:])
 
-# # # Modify strings
+# # Modify strings
 
-# # r="Hello world"
-# # print(r.upper())
+# r="Hello world"
+# print(r.upper())
 
-# # r="Hello world"
-# # print(r.lower())
+# r="Hello world"
+# print(r.lower())
 
-# # a = "Rohith Bonthu"
-# # print(a.replace("B", "D"))
+# a = "Rohith Bonthu"
+# print(a.replace("B", "D"))
 
 
-# # a="king of universe"
-# # print(a.replace("g","D"))
+# a="king of universe"
+# print(a.replace("g","D"))
 
 
-# # # Format strings
+# # Format strings
 
-# # cgpa= 78
+# cgpa= 78
 
-# # txt= f"pavan is topper of college, he is good  {cgpa}"
-# # print(txt)
+# txt= f"pavan is topper of college, he is good  {cgpa}"
+# print(txt)
 
-# # Lists in python 
+# Lists in python 
 
-# # mylist =["apple","Mango","cherry","pineapple","apple", ]
-# # print(mylist)
+# mylist =["apple","Mango","cherry","pineapple","apple", ]
+# print(mylist)
 
-# # tuples
+# tuples
 
-# # mytuple = ("apple","Banana","cherry")
-# # print(mytuple)
+# mytuple = ("apple","Banana","cherry")
+# print(mytuple)
 
 
 
-# # # duplicate tuple
+# # duplicate tuple
 
-# # mytuple = ("rohith","Bhargav","pavan","avinash","Midhilesh","sivram","vamsi","sreenivas","Vaibhav","Bhanu","Bhargav")
-# # print(mytuple)
+# mytuple = ("rohith","Bhargav","pavan","avinash","Midhilesh","sivram","vamsi","sreenivas","Vaibhav","Bhanu","Bhargav")
+# print(mytuple)
 
-# # mytuple = ("rohith","Bhargav","pavan","avinash","Midhilesh","sivram","vamsi","sreenivas","Vaibhav","Bhanu","Bhargav","mohanakhil","saketh","sridhar")
-# # print(len(mytuple))
+# mytuple = ("rohith","Bhargav","pavan","avinash","Midhilesh","sivram","vamsi","sreenivas","Vaibhav","Bhanu","Bhargav","mohanakhil","saketh","sridhar")
+# print(len(mytuple))
 
-# # #sets
+# #sets
 
-# # thisset = {"apple", "banana", "cherry"}
+# thisset = {"apple", "banana", "cherry"}
 
-# # thisset.remove("banana")
+# thisset.remove("banana")
 
-# # print(thisset)
+# print(thisset)
 
 
-# # thisset = {"pavna","Rohith","Bhargav","avinash"}
-# # thisset.remove("pavna")
-# # print(thisset)
+# thisset = {"pavna","Rohith","Bhargav","avinash"}
+# thisset.remove("pavna")
+# print(thisset)
 
 
-# # thisset = {"green","yellow","orange"}
-# # thisset.add("hero")
-# # print(thisset)
+# thisset = {"green","yellow","orange"}
+# thisset.add("hero")
+# print(thisset)
 
-# # # Dictionaries
+# # Dictionaries
 
-# # student = {
-# #     "name": "rohith",
-# #     "age":  22,
-# #     "course":"cse",
-# # }
-# # print(student)
+# student = {
+#     "name": "rohith",
+#     "age":  22,
+#     "course":"cse",
+# }
+# print(student)
 
 
-# # scorpio = {
-# #   "gear":"Automatic",
-# #   "speed": 180,
-# #   "colour":"white",
-# # }
-# # print(scorpio)
+# scorpio = {
+#   "gear":"Automatic",
+#   "speed": 180,
+#   "colour":"white",
+# }
+# print(scorpio)
 
-# # thisdict =	{
-# #   "brand": "ford",
-# #   "model": "ecosport",
-# #   "year": 1964
-# # }
-# # x = thisdict["model"]
-# # print(x)
+# thisdict =	{
+#   "brand": "ford",
+#   "model": "ecosport",
+#   "year": 1964
+# }
+# x = thisdict["model"]
+# print(x)
 
 
-# # thisdict = {
-# #   "brand": "Ford",
-# #   "model": "eco sport",
-# #   "year": 1964
-# # }
-# # x=thisdict["year"] = 2018
-# # print(x)
+# thisdict = {
+#   "brand": "Ford",
+#   "model": "eco sport",
+#   "year": 1964
+# }
+# x=thisdict["year"] = 2018
+# print(x)
 
-# # thisdict = {
-# #     "name":"pavan",
-# #     "age":22,
-# #     "year":2002
-# # }
-# # x=thisdict["year"] = 2002
-# # print(x)
+# thisdict = {
+#     "name":"pavan",
+#     "age":22,
+#     "year":2002
+# }
+# x=thisdict["year"] = 2002
+# print(x)
 
-# # thisdict = {
+# thisdict = {
 
-# #     "school":"srichaitanya",
-# #     "students": 808,
-# #     "established":2018 
-# # }
-# # x=thisdict["students"] = 900
-# # print(x)
+#     "school":"srichaitanya",
+#     "students": 808,
+#     "established":2018 
+# }
+# x=thisdict["students"] = 900
+# print(x)
 
-# # # //adding list//#
+# # //adding list//#
 
-# # thisdict = {
+# thisdict = {
 
-# #     "school":"srichaitanya",
-# #     "students": 808,
-# #     "established":2018 
-# # }
-# # thisdict["school buses"] = 47
-# # print(thisdict)
+#     "school":"srichaitanya",
+#     "students": 808,
+#     "established":2018 
+# }
+# thisdict["school buses"] = 47
+# print(thisdict)
 
-# # thisdict = {
-# #     "college":"Gitam",
-# #     "Branch":"cse",
-# #     "Backlogs":2,   
+# thisdict = {
+#     "college":"Gitam",
+#     "Branch":"cse",
+#     "Backlogs":2,   
 
-# # }
-# # thisdict["name"] = "sai"
-# # print(thisdict)
+# }
+# thisdict["name"] = "sai"
+# print(thisdict)
 
 
-# # # //pop means it  will remove elements
-# # thisdict = {
-# #  "college":"Gitam",
-# #  "Branch":"cse",
-# #  "Backlogs":2,   
+# # //pop means it  will remove elements
+# thisdict = {
+#  "college":"Gitam",
+#  "Branch":"cse",
+#  "Backlogs":2,   
 
-# # }
-# # thisdict.pop("college")
-# # print(thisdict)
+# }
+# thisdict.pop("college")
+# print(thisdict)
 
-# # # #if else elif
+# # #if else elif
 
-# # a = 380
-# # b = 470
+# a = 380
+# b = 470
 
-# # if a > b:
-# #     print("a is greater than b")
-# # elif a == b:
-# #     print("a and b are equal")
-# # else:
-# #     print("b is greater than a")
+# if a > b:
+#     print("a is greater than b")
+# elif a == b:
+#     print("a and b are equal")
+# else:
+#     print("b is greater than a")
 
 
 
-# #   #if practicing
+#   #if practicing
 
-# # score = 75
+# score = 75
 
-# # if score >= 90:
-# #   print("Grade: A")
-# # elif score >= 80:
-# #   print("Grade: B")
-# # elif score >= 70:
-# #   print("Grade: C")
-# # elif score >= 60:
-# #   print("Grade: D")
+# if score >= 90:
+#   print("Grade: A")
+# elif score >= 80:
+#   print("Grade: B")
+# elif score >= 70:
+#   print("Grade: C")
+# elif score >= 60:
+#   print("Grade: D")
 
 
-# # rating = 5
+# rating = 5
 
-# # if rating >8:
-# #     print("hit")
-# # elif rating >=7:
-# #     print("super")
-# # elif rating >=6:
-# #     print("above average")
-# # else:
-# #     print("flop")
+# if rating >8:
+#     print("hit")
+# elif rating >=7:
+#     print("super")
+# elif rating >=6:
+#     print("above average")
+# else:
+#     print("flop")
 
-# # age=18
+# age=18
 
-# # if age>18:
-# #    print ("you are minor")
-# # elif age==18:
-# #    print("you are elgibule to vote")
-# # else: 
-# #    print("you are not elgibule to vote")
+# if age>18:
+#    print ("you are minor")
+# elif age==18:
+#    print("you are elgibule to vote")
+# else: 
+#    print("you are not elgibule to vote")
 
 
 
 
 
-# # temprature=42
+#   temprature=42
 
-# # if temprature>42:
-# #     print("its light hot")
-# # elif temprature>20:
-# #     print("weather is very cool")
-# # else:
-# #     print("weather is very moderate")
+# if temprature>42:
+#     print("its light hot")
+# elif temprature>20:
+#     print("weather is very cool")
+# else:
+#     print("weather is very moderate")
    
 
-# # name = input("Enter your name: ")
-# # print("Hello,", name)
 
 
 
+# name= "hello world"  #string
+# a=3 #Int
+# b=4.5 #Float
+# c=2+3j #complex
+# names = ["Avinash","Bhargav","pavan"]  #list
+# fruits=("mango","Bananan","pineapple")  #tuple
+# numbers = range(2, 8) #range
 
 
-# # name= "hello world"  #string
-# # a=3 #Int
-# # b=4.5 #Float
-# # c=2+3j #complex
-# # names = ["Avinash","Bhargav","pavan"]  #list
-# # fruits=("mango","Bananan","pineapple")  #tuple
-# # numbers = range(2, 8) #range
+# # #string Integer
+# name="rohith"
+# age="twenty two"
+# city="vizag"
+# village="rangapuram"
+# occupation="student"
+# Btech="engineering"
+# print(name,age,city,village,occupation,Btech)
 
+# #int
 
-# # # #string Integer
-# # name="rohith"
-# # age="twenty two"
-# # city="vizag"
-# # village="rangapuram"
-# # occupation="student"
-# # Btech="engineering"
-# # print(name,age,city,village,occupation,Btech)
+# age=22
+# speed=180
+# weight=78
+# cost=500000000
+# print(age,speed,weight,cost)
 
-# # #int
+# #Float
+# height=6.2
+# width =14.5
+# length=15.5
+# print(height,width,length)
 
-# # age=22
-# # speed=180
-# # weight=78
-# # cost=500000000
-# # print(age,speed,weight,cost)
+# #complex
 
-# # #Float
-# # height=6.2
-# # width =14.5
-# # length=15.5
-# # print(height,width,length)
+# a=2+1j
+# b=3+2j
+# l=5+6j
+# print(a,b,l)
 
-# # #complex
+# #list
+# my_list1 =["pavan","Bhargav","Rohith","Avinash","Sridhar"]
+# # my_list2 =["sai","kumar","sreenivas","hero"]
+# print(my_list1[1])
 
-# # a=2+1j
-# # b=3+2j
-# # l=5+6j
-# # print(a,b,l)
 
-# # #list
-# # my_list1 =["pavan","Bhargav","Rohith","Avinash","Sridhar"]
-# # # my_list2 =["sai","kumar","sreenivas","hero"]
-# # print(my_list1[1])
 
+# #list
+# my_list1 =["pavan","Bhargav","Rohith","Avinash","Sridhar"]
+# my_list2 =["sai","kumar","sreenivas","hero"]
+# print(my_list1[0])
 
+# list
+# my_list1 =["pavan","Bhargav","Rohith","Avinash","Sridhar"]
+# my_list2 =["sai","kumar","sreenivas","hero"]
+# print(my_list1[-3])
 
-# # #list
-# # my_list1 =["pavan","Bhargav","Rohith","Avinash","Sridhar"]
-# # # my_list2 =["sai","kumar","sreenivas","hero"]
-# # print(my_list1[0])
+# thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+# print(thislist[2:5])
 
-# # list
-# # my_list1 =["pavan","Bhargav","Rohith","Avinash","Sridhar"]
-# # # my_list2 =["sai","kumar","sreenivas","hero"]
-# # print(my_list1[-3])
+# thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+# print(thislist[-2:5])
 
-# # thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-# # print(thislist[2:5])
+# thislist =["powerrangers","marvell","3dmovies"]
+# print(thislist[:3])
 
-# # thislist = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
-# # print(thislist[-2:5])
+# thislist = ["apple", "banana", "cherry"]
+# thislist[1] = "blackcurrant"
+# print(thislist)
 
-# # thislist =["powerrangers","marvell","3dmovies"]
-# # print(thislist[:3])
+# your_list1=["scorpio","Bolero","fiat","Hycross"]
+# your_list1[2]= "hondacity"
+# print(your_list1)
 
-# # thislist = ["apple", "banana", "cherry"]
-# # thislist[1] = "blackcurrant"
-# # print(thislist)
+# my_list = ["powerangers", "motupatlu", "gearup"]
+# my_list.replace("jingam patlu")
+# print(my_list)
 
-# # your_list1=["scorpio","Bolero","fiat","Hycross"]
-# # your_list1[2]= "hondacity"
-# # print(your_list1)
+# my_list=["powerangers","motupatlu","gearup"]
+# my_list[1:2]="kingkong","mongodb"
+# print(my_list)
 
-# # my_list = ["powerangers", "motupatlu", "gearup"]
-# # my_list.replace("jingam patlu")
-# # print(my_list)
+# my_list["Suryanarayana","mahesh","ravi"]
+# my_list.append["ramkumar"]
+# print(my_list)
 
-# # my_list=["powerangers","motupatlu","gearup"]
-# # my_list[1:2]="kingkong","mongodb"
-# # print(my_list)
 
-# # my_list["Suryanarayana","mahesh","ravi"]
-# # my_list.append["ramkumar"]
-# # print(my_list)
+# thislist = ["apple", "banana", "cherry"]
+# thislist.pop(1)
+# print(thislist)
 
+# # Original list
+# names = ["Rohith", "Pavan", "Avinash"]
 
-# # thislist = ["apple", "banana", "cherry"]
-# # thislist.pop(1)
-# # print(thislist)
+# #  Change an item
+# names[1] = "Bhargav"
 
-# # # Original list
-# # names = ["Rohith", "Pavan", "Avinash"]
+# #  Add a new item
+# names.append("Saketh")
 
-# # #  Change an item
-# # names[1] = "Bhargav"
+# #  Remove an item
+# names.remove("Avinash")
 
-# # #  Add a new item
-# # names.append("Saketh")
+# print(names)
 
-# # #  Remove an item
-# # names.remove("Avinash")
 
-# # print(names)
+# my_list=["mahesbabu","ntr","prabhas","ramcharan","alluarjun"]
+# my_list.append("pavan kalyan")
+# print(my_list)
 
+# my_list=["paddy","wheat","maizecoto","watermelon"]
+# my_list.pop(1)
+# print(my_list)
 
-# # my_list=["mahesbabu","ntr","prabhas","ramcharan","alluarjun"]
-# # my_list.append("pavan kalyan")
-# # print(my_list)
+# my_list=["mango","papaya","apple","carrot","beetroot","delhi","frog"]
+# my_list.sort()
+# print(my_list)
 
-# # my_list=["paddy","wheat","maizecoto","watermelon"]
-# # my_list.pop(1)
-# # print(my_list)
 
-# # my_list=["mango","papaya","apple","carrot","beetroot","delhi","frog"]
-# # my_list.sort()
-# # print(my_list)
 
+# my_list1=["man","women","Boy","girl","children"]
+# my_list2=["stupid","concept","wrong"]
+# my_list3=my_list1 + my_list2
+# print(my_list3)
 
 
-# # my_list1=["man","women","Boy","girl","children"]
-# # my_list2=["stupid","concept","wrong"]
-# # my_list3=my_list1 + my_list2
-# # print(my_list3)
+# names=["pavan","cherry","hero","lamp"]
+# names.clear()
+# print(names)
 
+# heroes=["mahesh","ntr","prabhas","ram",]
+# heroes.clear()
+# print(heroes)
 
-# # names=["pavan","cherry","hero","lamp"]
-# # names.clear()
-# # print(names)
+# family=["subrahmanyam","jyothi","Rohith","yeswanth","satyananarayna","kamala kumari"]
+# family.copy
+# print(family)
 
-# # heroes=["mahesh","ntr","prabhas","ram",]
-# # heroes.clear()
-# # print(heroes)
+# village=["rangapuram","nagallavarigude","gokavaram","narsannpalem"]
+# village.count(x)
+# print(village)
 
-# # family=["subrahmanyam","jyothi","Rohith","yeswanth","satyananarayna","kamala kumari"]
-# # family.copy
-# # print(family)
+# fruits=["banana","mango","pineapple"]
+# new_fruits=["watermelon","papaya"]
+# fruits.extend(new_fruits)
+# print(fruits)
 
-# # village=["rangapuram","nagallavarigude","gokavaram","narsannpalem"]
-# # village.count(x)
-# # print(village)
+# fruits = ["apple", "banana", "cherry"]
+# print(fruits.index("banana"))
 
-# # fruits=["banana","mango","pineapple"]
-# # new_fruits=["watermelon","papaya"]
-# # fruits.extend(new_fruits)
-# # print(fruits)
 
-# # fruits = ["apple", "banana", "cherry"]
-# # print(fruits.index("banana"))
+# fruits = ["apple", "banana"]
+# fruits.insert(1, "cherry")  # Insert "cherry" at index 1
+# print(fruits)
 
+# thisdict = {
+#  "name":"Rohith",
+#  "college":"gitam",
+#  "branch": "cse",
+# }
+# thisdict["gitam"]="klu"
+# print(thisdict)
 
-# # fruits = ["apple", "banana"]
-# # fruits.insert(1, "cherry")  # Insert "cherry" at index 1
-# # print(fruits)
+# thisdict = {
+#     "colour":"white",
+#     "model" :"2024",
+#     "Brand":"scorpio-n",
+#     "gear":"automatic",
+# }
+# thisdict["auto pilot"]="no" 
+# print(thisdict)
 
-# # thisdict = {
-# #  "name":"Rohith",
-# #  "college":"gitam",
-# #  "branch": "cse",
-# # }
-# # thisdict["gitam"]="klu"
-# # print(thisdict)
 
-# # thisdict = {
-# #     "colour":"white",
-# #     "model" :"2024",
-# #     "Brand":"scorpio-n",
-# #     "gear":"automatic",
-# # }
-# # thisdict["auto pilot"]="no" 
-# # print(thisdict)
+# my_set={"rohith","bonthu","GITAM",1,"False"}
+# print(my_set)
 
+# thisset = {"apple", "banana", "cherry"}
 
-# # my_set={"rohith","bonthu","GITAM",1,"False"}
-# # print(my_set)
+# print("banana" in thisset)
 
-# # thisset = {"apple", "banana", "cherry"}
 
-# # print("banana" in thisset)
+# my_set ={"power","rangers","marvel"}
+# my_set.add("dc marvel")
+# print(my_set)
 
+# my_set={"powerstar","superstar","stylishstar"}
+# my_set.pop()
+# print(my_set)
 
-# # my_set ={"power","rangers","marvel"}
-# # my_set.add("dc marvel")
-# # print(my_set)
+# my_set={"kingcobra","snakes","foreign"}
+# my_set.clear()
+# print(my_set)
 
-# # my_set={"powerstar","superstar","stylishstar"}
-# # my_set.pop()
-# # print(my_set)
+# my_set={"gaytrhi","enterprises",2025,"all rights"}
+# my_set.add("not resrved")
+# print(my_set)
 
-# # my_set={"kingcobra","snakes","foreign"}
-# # my_set.clear()
-# # print(my_set)
+# my_list=["bigboss","host","Nagarjuna","season",8]
+# my_list.reverse()
+# print(my_list)
 
-# # my_set={"gaytrhi","enterprises",2025,"all rights"}
-# # my_set.add("not resrved")
-# # print(my_set)
+# my_list=[2028,"will","becomes","very","Intresting"]
+# my_list.append("natural star nani")
+# print(my_list)
 
-# # my_list=["bigboss","host","Nagarjuna","season",8]
-# # my_list.reverse()
-# # print(my_list)
 
-# # my_list=[2028,"will","becomes","very","Intresting"]
-# # my_list.append("natural star nani")
-# # print(my_list)
+# my_list=["python","is","very","intresting"]
+# my_list.count
+# print(my_list)
 
+# my_list=["pyhton","is","not","intresting"]
+# # my_list.index("intresting")
+# print(my_list)
 
-# # my_list=["python","is","very","intresting"]
-# # my_list.count
-# # print(my_list)
+# my_set={"gaytrhi","enterprises",2025,"all rights"}
+# my_set.remove("all rights")
+# print(my_set)
 
-# # my_list=["pyhton","is","not","intresting"]
-# # # my_list.index("intresting")
-# # print(my_list)
+# my_tuple=("name","king kong","cobra","snakes")
+# my_tuple.count
+# print(my_tuple) 
 
-# # my_set={"gaytrhi","enterprises",2025,"all rights"}
-# # my_set.remove("all rights")
-# # print(my_set)
-
-# # my_tuple=("name","king kong","cobra","snakes")
-# # my_tuple.count
-# # print(my_tuple) 
-
-# # my_list=["Bonthu","Bollina","Nama","Nagalla"]
-# # my_list.pop()
-# # print(my_list)
+# my_list=["Bonthu","Bollina","Nama","Nagalla"]
+# my_list.pop()
+# print(my_list)
  
-# # my_tuple=("king","movies","is","Beautifull")
-# # print(my_tuple)
+# my_tuple=("king","movies","is","Beautifull")
+# print(my_tuple)
 
-# # thisdict={
-# # "college":"gitam",
-# # "Brnach":"cse",
-# # "college type":"University",
-# # "Branch":"cse"
-# # }
-# # thisdict["college"]="klu"
-# # print(thisdict)
+# thisdict={
+# "college":"gitam",
+# "Brnach":"cse",
+# "college type":"University",
+# "Branch":"cse"
+# }
+# thisdict["college"]="klu"
+# print(thisdict)
 
-# # thisdict={
-# # "college":"gitam",
-# # "Brnach":"cse",
-# # "college type":"University",
-# # "Branch":"cse"
-# # }
-# # thisdict["college"]="klu"
-# # print(thisdict["college type"])
+# thisdict={
+# "college":"gitam",
+# "Brnach":"cse",
+# "college type":"University",
+# "Branch":"cse"
+# }
+# thisdict["college"]="klu"
+# print(thisdict["college type"])
 
-# # this_set={"man","women","girl","Boy"}
-# #  this_set.add("another gender")
-# #  print(this_set) 
+# this_set={"man","women","girl","Boy"}
+#  this_set.add("another gender")
+#  print(this_set) 
 
-# # this_set={"youngmna","elder","boys"}
-# # print(this_set)
-
-
-# # thisdict = {
-# #   "brand": "Ford",
-# #   "model": "Mustang",
-# #   "year": 1964
-# # }
-# # thisdict["year"] = 2018
-# # print(thisdict)
-
-# # this_dict = {
-# #     "shop name":"Gaythri Enterprises",
-# #     "employee" :"suryanaryana",
-# #     "co employee":"mahesh",
-# #     "established":2020,
-# # }
-# # this_dict["shop type"]="pesticides"
-# # print(this_dict)
-
-# # this_dict = {
-# #     "city" : "vizag",
-# #     "pollution":"less",
-# #     "Bus type" :"ordinary",
-# #     "cost":25
-# # }
-# # this_dict.pop("cost")
-# # print(this_dict)
-
-# # my_list = ["powerangers", "motupatlu", "gearup"]
-# # pos = my_list.index("motupatlu")
-# # my_list[pos] = "jingam patlu"
-# # print(my_list)
-
-# # age = 77
-# # if age >0:
-# #     print("print 77 is greater")
-
-# # a=33
-# # b=34
-# # if a<b:
-# # print("b is bigger")
+# this_set={"youngmna","elder","boys"}
+# print(this_set)
 
 
-# # my_list=["man","women","girl","children"]
-# # my_list.pop()
-# # print(my_list)
+# thisdict = {
+#   "brand": "Ford",
+#   "model": "Mustang",
+#   "year": 1964
+# }
+# thisdict["year"] = 2018
+# print(thisdict)
+
+# this_dict = {
+#     "shop name":"Gaythri Enterprises",
+#     "employee" :"suryanaryana",
+#     "co employee":"mahesh",
+#     "established":2020,
+# }
+# this_dict["shop type"]="pesticides"
+# print(this_dict)
+
+# this_dict = {
+#     "city" : "vizag",
+#     "pollution":"less",
+#     "Bus type" :"ordinary",
+#     "cost":25
+# }
+# this_dict.pop("cost")
+# print(this_dict)
+
+# my_list = ["powerangers", "motupatlu", "gearup"]
+# pos = my_list.index("motupatlu")
+# my_list[pos] = "jingam patlu"
+# print(my_list)
+
+# age = 77
+# if age >0:
+#     print("print 77 is greater")
+
+# a=33
+# b=34
+# if a<b:
+# print("b is bigger")
 
 
-# # my_list=["man","women","girl","children"]
-# # my_list.append("stupid")
-# # print(my_list)
-
-# # my_dict ={
-# #     "name":"Rohith",
-# #     "age":22,
-# #     "Gender":"Male",
-# #     "year of birth":2002
-# # }
-# # my_dict["study"]="btech"
-# # print(my_dict)
-
-# # my_tuple=("mango","greenery","yellow","magzine")
-# # print(my_tuple[2])
+# my_list=["man","women","girl","children"]
+# my_list.pop()
+# print(my_list)
 
 
-# # a=47
+# my_list=["man","women","girl","children"]
+# my_list.append("stupid")
+# print(my_list)
 
-# # b=58
+# my_dict ={
+#     "name":"Rohith",
+#     "age":22,
+#     "Gender":"Male",
+#     "year of birth":2002
+# }
+# my_dict["study"]="btech"
+# print(my_dict)
 
-# # if b > a:
-# #  print("B is greater than a")
+# my_tuple=("mango","greenery","yellow","magzine")
+# print(my_tuple[2])
+
+
+# a=47
+
+# b=58
+
+# if b > a:
+#  print("B is greater than a")
  
  
-# # age = 22
-# # if age>=18:
-# #   print("you are elgibule to vote")
-# #   print("you are not elgibule to vote")
+# age = 22
+# if age>=18:
+#   print("you are elgibule to vote")
+#   print("you are not elgibule to vote")
  
  
-# # a=400
-# # b=500
-# # if b>a:
-# #     print("b is greater than a")
+# a=400
+# b=500
+# if b>a:
+#     print("b is greater than a")
 
 
 
-# # age = 45
-# # if age>=24:
-# #     print("you are a middle age man")
+# age = 45
+# if age>=24:
+#     print("you are a middle age man")
     
-# # x = 77
-# # if x>=18:
-# #   print("you are a teenager")
+# x = 77
+# if x>=18:
+#   print("you are a teenager")
   
-# # a = 47
-# # b = 39
-# # if a>b:
-# #     print("a is greater than b")
+# a = 47
+# b = 39
+# if a>b:
+#     print("a is greater than b")
     
     
     
-# # a = 47
-# # b = 39
-# # if a>=b:
-# #     print("its equal")
+# a = 47
+# b = 39
+# if a>=b:
+#     print("its equal")
 
-# # a = 99
-# # b = 10
+# a = 99
+# b = 10
 
-# # if a == b:
-# #     print("both are equal")
+# if a == b:
+#     print("both are equal")
 
 
-# # x=99
-# # if x > 30:
-# #   print("ninty nine greater than 30")
+# x=99
+# if x > 30:
+#   print("ninty nine greater than 30")
   
 
 
 
-# # score = 88
-# # if score >50:
-# #   print("you got c grade")
+# score = 88
+# if score >50:
+#   print("you got c grade")
 
 
-# # score = 96
-# # if score >=98:
-# #   print("out standing")
+# score = 96
+# if score >=98:
+#   print("out standing")
     
         
 # string1 = "sai"
@@ -1199,314 +1195,354 @@
 #      print("nothing")
      
     
-list1=["pavan","bhargav","rohith"]
-list2=["Srinu","Vamsi546","Avinash"]
+# list1=["pavan","bhargav","rohith"]
+# list2=["Srinu","Vamsi546","Avinash"]
 
-if list1>list2:
-    print("list 1 is greater")
-elif list2>list1:
-    print("list 2 is greater")
-else:
-     print("lists are not equal")
+# if list1>list2:
+#     print("list 1 is greater")
+# elif list2>list1:
+#     print("list 2 is greater")
+# else:
+#      print("lists are not equal")
      
     
-list1=[10,"rohith","Bhanu"]
-list2=[10,"apple","Bharath"]
+# list1=[10,"rohith","Bhanu"]
+# list2=[10,"apple","Bharath"]
 
-if list1>list2:
-    print("list1 is greater")
-elif list2<list1:
-    print("list 2 is greater")
-else:
-    print("lists are not equal")   
+# if list1>list2:
+#     print("list1 is greater")
+# elif list2<list1:
+#     print("list 2 is greater")
+# else:
+#     print("lists are not equal")   
     
     
-list1=[20,40]
-list2=[5,7,10,]
-if list1>list2:
-    print("list 1 is greater")
-elif list2>list1:
-    print("list 2 is greater")
-elif list1==list2:
-    print("lists are equal")
-else:
-    print("lists are not equal")
+# list1=[20,40]
+# list2=[5,7,10,]
+# if list1>list2:
+#     print("list 1 is greater")
+# elif list2>list1:
+#     print("list 2 is greater")
+# elif list1==list2:
+#     print("lists are equal")
+# else:
+#     print("lists are not equal")
     
-string1="rohith"
-string2="pavan"
-if string1>string2:
-    print("string 1 is greater")
-elif string2>string1:
-    print("string 2 is greater")
-else:
-    print("strings are not equal")
+# string1="rohith"
+# string2="pavan"
+# if string1>string2:
+#     print("string 1 is greater")
+# elif string2>string1:
+#     print("string 2 is greater")
+# else:
+#     print("strings are not equal")
     
     
-string1="Bonla pavan kumar gitam University"
-string2="Bonthu Rohith Gitam university"
-if string1>string2:
-    print("string 1 is greater")
-elif string2>string1:
-    print("string 2 is graeter")
-else:
-     print("strings are not equal")
+# string1="Bonla pavan kumar gitam University"
+# string2="Bonthu Rohith Gitam university"
+# if string1>string2:
+#     print("string 1 is greater")
+# elif string2>string1:
+#     print("string 2 is graeter")
+# else:
+#      print("strings are not equal")
      
      
-float1=10.76
-float2=13.73
-if float1>float2:
-    print("float 1 is greater")
-elif float2>float1:
-    print("float 2 is greater")
-else:
-    print("Both are not same")
+# float1=10.76
+# float2=13.73
+# if float1>float2:
+#     print("float 1 is greater")
+# elif float2>float1:
+#     print("float 2 is greater")
+# else:
+#     print("Both are not same")
     
 
 
-string1="Gitam University"
-string2="kl university"
-if string1>string2:
-    print("string 1 is greater")
-elif string2>string1:
-    print("string 2 greater")
-else:
-    print("strings are not equal")   
+# string1="Gitam University"
+# string2="kl university"
+# if string1>string2:
+#     print("string 1 is greater")
+# elif string2>string1:
+#     print("string 2 greater")
+# else:
+#     print("strings are not equal")   
     
     
-string1="SACHIN TENDULKAR"
-string2="SACHIN TENDULKAR"
-if string1>string2:
-    print("string1 is greater")
-elif string1==string2:
-    print("Both strings are equal")
-else:
-    print("string 2 is greater")
+# string1="SACHIN TENDULKAR"
+# string2="SACHIN TENDULKAR"
+# if string1>string2:
+#     print("string1 is greater")
+# elif string1==string2:
+#     print("Both strings are equal")
+# else:
+#     print("string 2 is greater")
     
 
-String1="SuperstarmaheshBabu"
-string2="STYLISH STAR ALLU ARJUN"
-if string1>string2:
-    print("string1 is greater")
-elif string2>string1:
-    print("string 2 is greater")
-else:
-    print("strings are not equal")
+# String1="SuperstarmaheshBabu"
+# string2="STYLISH STAR ALLU ARJUN"
+# if string1>string2:
+#     print("string1 is greater")
+# elif string2>string1:
+#     print("string 2 is greater")
+# else:
+#     print("strings are not equal")
 
 
-my_list1=["Mango","Apple","Banana","cherry"]
-my_list2=["Grapes","Sugar","waterMelon,papaya"]
-if my_list1>my_list2:
-    print("my_list1 is greater")
-elif my_list2>my_list1:
-    print("my list is greater")
-else:
-    print("lists are not equal")
+# my_list1=["Mango","Apple","Banana","cherry"]
+# my_list2=["Grapes","Sugar","waterMelon,papaya"]
+# if my_list1>my_list2:
+#     print("my_list1 is greater")
+# elif my_list2>my_list1:
+#     print("my list is greater")
+# else:
+#     print("lists are not equal")
     
     
-mytuple1=("mango","Banana","pineapple","Water melon")
-mytuple2=("papaya","cherry","Apple","Grapes","pomogranite")
-if mytuple1>mytuple2:
-    print("mytuple1 is greater")
-elif mytuple2>mytuple1:
-    print("mytuple2 is greater")
-else:
-    print("tuples are not equal")    
+# mytuple1=("mango","Banana","pineapple","Water melon")
+# mytuple2=("papaya","cherry","Apple","Grapes","pomogranite")
+# if mytuple1>mytuple2:
+#     print("mytuple1 is greater")
+# elif mytuple2>mytuple1:
+#     print("mytuple2 is greater")
+# else:
+#     print("tuples are not equal")    
 
 
-mytuple1=(-100,-200,-300,-500)
-mytuple2=(50,60,70,80)
-if mytuple1>mytuple2:
-    print("tuple 1  is  greater")
-elif mytuple2>mytuple1:
-    print("tuple 2 is greater")
-else:
-    print("both tuples are not equal")
-
-
-
-my_list1=["man","Women","girl","Children","Childish","ABHISHEIKH SHARMA"]
-my_list2=["Sachin","Dhoni","kohli","Rohithsharma","Suryakumar Yadav"]
-if my_list1>my_list2:
-    print("list 1 is greater")
-elif my_list2>my_list2:
-    print("list 2 greater")
-else:
-    print("lists are not equal")          
+# mytuple1=(-100,-200,-300,-500)
+# mytuple2=(50,60,70,80)
+# if mytuple1>mytuple2:
+#     print("tuple 1  is  greater")
+# elif mytuple2>mytuple1:
+#     print("tuple 2 is greater")
+# else:
+#     print("both tuples are not equal")
 
 
 
-my_list1=["maheshbabu","prabhas","junior Ntr","ram","kalyan ram","Ram charan"]
-my_list2=["NAGARJUNA","VENKTATESH","SAIKUMAR","SUMAN","kRISHNA"]
-if my_list1>my_list2:
-    print("list1 is greater")
-elif my_list2>my_list1:
-    print("list2 is greater")
-else:
-    print("lists are not equal")
+# my_list1=["man","Women","girl","Children","Childish","ABHISHEIKH SHARMA"]
+# my_list2=["Sachin","Dhoni","kohli","Rohithsharma","Suryakumar Yadav"]
+# if my_list1>my_list2:
+#     print("list 1 is greater")
+# elif my_list2>my_list2:
+#     print("list 2 greater")
+# else:
+#     print("lists are not equal")          
+
+
+
+# my_list1=["maheshbabu","prabhas","junior Ntr","ram","kalyan ram","Ram charan"]
+# my_list2=["NAGARJUNA","VENKTATESH","SAIKUMAR","SUMAN","kRISHNA"]
+# if my_list1>my_list2:
+#     print("list1 is greater")
+# elif my_list2>my_list1:
+#     print("list2 is greater")
+# else:
+#     print("lists are not equal")
     
 
-my_list1=["PAVAN","BHARGAV","AVINASH","ROHITH","SIVARAMARAJU","SREENIVAS","VAMSI KRISHNA,MIDHILESH","BHANU","VAIBHAV"]
-my_list2=["PAVAN","BHARGAV","AVINASH","ROHITH","SIVARAMARAJU","SREENIVAS","VAMSI KRISHNA,MIDHILESH","BHANU","VAIBHAV"]
-if my_list1>my_list2:
-    print("list1 is greater")
-elif my_list1==my_list2:
-    print("Both lists equal")
-else:
-    print("list2 is greater")
+# my_list1=["PAVAN","BHARGAV","AVINASH","ROHITH","SIVARAMARAJU","SREENIVAS","VAMSI KRISHNA,MIDHILESH","BHANU","VAIBHAV"]
+# my_list2=["PAVAN","BHARGAV","AVINASH","ROHITH","SIVARAMARAJU","SREENIVAS","VAMSI KRISHNA,MIDHILESH","BHANU","VAIBHAV"]
+# if my_list1>my_list2:
+#     print("list1 is greater")
+# elif my_list1==my_list2:
+#     print("Both lists equal")
+# else:
+#     print("list2 is greater")
 
 
-string1="Pavan","Bhargav","Avinash","Rohith"
-string2="Ram kumar","chandu","revanth"
-if string1>string2:
-    print("string 1 is greater")
-elif string2>string1:
-    print("string 2 is greater")
-else:
-    print("Both are different strings")
+# string1="Pavan","Bhargav","Avinash","Rohith"
+# string2="Ram kumar","chandu","revanth"
+# if string1>string2:
+#     print("string 1 is greater")
+# elif string2>string1:
+#     print("string 2 is greater")
+# else:
+#     print("Both are different strings")
     
 
 
-my_list1=["daikin","lloyd","Lg","onida"]
-my_list2=["DAIKIN","LLOYD","LG","ONIDA"]
-if my_list1>my_list2:
-    print("list one is greater")
-elif my_list2>my_list1:
-    print("list two is greater")
-else:
-    print("both lists are not equal")
+# my_list1=["daikin","lloyd","Lg","onida"]
+# my_list2=["DAIKIN","LLOYD","LG","ONIDA"]
+# if my_list1>my_list2:
+#     print("list one is greater")
+# elif my_list2>my_list1:
+#     print("list two is greater")
+# else:
+#     print("both lists are not equal")
     
     
     
       
 
-my_list1=["scorpio","Bolero","XUV700","XUV500","TUV300"]
-my_list2=["Creta","Honda city","Alcazar"]
-if my_list1>my_list2:
-    print("list one is greater")
-elif my_list2>my_list1:
-    print("list 2 is graeter")
-else:
-    print("Both lists are not equal")
+# my_list1=["scorpio","Bolero","XUV700","XUV500","TUV300"]
+# my_list2=["Creta","Honda city","Alcazar"]
+# if my_list1>my_list2:
+#     print("list one is greater")
+# elif my_list2>my_list1:
+#     print("list 2 is graeter")
+# else:
+#     print("Both lists are not equal")
     
     
     
-my_list1=["apple","mango","banana","cherry"]
-my_list2=["17,18,19,20"]
-if my_list1>my_list2:
-    print("list 1 is greater")
-elif my_list2>my_list1:
-    print("list 2 is graeatr")
-else:
-    print("two different lists")
+# my_list1=["apple","mango","banana","cherry"]
+# my_list2=["17,18,19,20"]
+# if my_list1>my_list2:
+#     print("list 1 is greater")
+# elif my_list2>my_list1:
+#     print("list 2 is graeatr")
+# else:
+#     print("two different lists")
     
-my_list1 = ["apple", "mango", "banana", "cherry"]
-my_list2 = ["grape", "orange", "kiwi", "melon"]
-if my_list1 > my_list2:
-    print("list 1 is greater")
-elif my_list2 > my_list1:
-    print("list 2 is greater")
-else:
-    print("both lists are equal")
+# my_list1 = ["apple", "mango", "banana", "cherry"]
+# my_list2 = ["grape", "orange", "kiwi", "melon"]
+# if my_list1 > my_list2:
+#     print("list 1 is greater")
+# elif my_list2 > my_list1:
+#     print("list 2 is greater")
+# else:
+#     print("both lists are equal")
 
 
-list1 = ["Rohith", "Pavan", "Avinash", "Bhargav"]
-list2 = ["Srinu", "Vamsi", "Manoj", "Kiran"]
+# list1 = ["Rohith", "Pavan", "Avinash", "Bhargav"]
+# list2 = ["Srinu", "Vamsi", "Manoj", "Kiran"]
 
-if list1 > list2:
-    print("list 1 is greater")
-elif list2 > list1:
-    print("list 2 is greater")
-else:
-    print("both lists are equal")
-    
-    
-
-    
-list1 = ["cat", "dog", "elephant", "lion"]
-list2 = ["ant", "bear", "zebra", "tiger"]
-
-if list1 > list2:
-    print("list 1 is greater")
-elif list2 > list1:
-    print("list 2 is greater")
-else:
-    print("both lists are equal")
-
-
-
-
-list1 = ["mango", "apple", "kiwi"]
-list2 = ["banana", "grape", "peach"]
-
-if list1 > list2:
-    print("list 1 is greater")
-elif list2 > list1:
-    print("list 2 is greater")
-else:
-    print("both lists are equal")
-    
+# if list1 > list2:
+#     print("list 1 is greater")
+# elif list2 > list1:
+#     print("list 2 is greater")
+# else:
+#     print("both lists are equal")
     
     
 
-list1 = ["delta", "bravo", "alpha"]
-list2 = ["echo", "foxtrot", "golf"]
+    
+# list1 = ["cat", "dog", "elephant", "lion"]
+# list2 = ["ant", "bear", "zebra", "tiger"]
 
-if list1 > list2:
-    print("list 1 is greater")
-elif list2 > list1:
-    print("list 2 is greater")
-else:
-    print("both lists are equal")
-    
-    
-    
-
-list1 = ["king", "queen", "joker"]
-list2 = ["ace", "jack", "ten"]
-if list1 > list2:
-    print("list 1 is greater")
-elif list2 > list1:
-    print("list 2 is greater")
-else:
-    print("both lists are equal")
-    
-    
-
-fruits = ["apple", "banana", "cherry"]
-
-for fruit in fruits:
-    print(fruit)
-    
-
-persons = ["ramu","gokul","raghu","kiran","vamsi"]
-for persons in persons:
-    print(persons)
-    
+# if list1 > list2:
+#     print("list 1 is greater")
+# elif list2 > list1:
+#     print("list 2 is greater")
+# else:
+#     print("both lists are equal")
 
 
 
 
-for i in "sachin tendulkar":
-    print (i)
-    
-    
-names=["rohith","bhargav","pavan"]
-for i in names:
-    print(i)
-    if i=="bhargav":
-        break
-    
-cars=["scorpio","Bolero","fiat"]
-for i in cars:
-    print(i)
-    if i>"Bolero":
-        break
+# list1 = ["mango", "apple", "kiwi"]
+# list2 = ["banana", "grape", "peach"]
+
+# if list1 > list2:
+#     print("list 1 is greater")
+# elif list2 > list1:
+#     print("list 2 is greater")
+# else:
+#     print("both lists are equal")
     
     
     
+
+# list1 = ["delta", "bravo", "alpha"]
+# list2 = ["echo", "foxtrot", "golf"]
+
+# if list1 > list2:
+#     print("list 1 is greater")
+# elif list2 > list1:
+#     print("list 2 is greater")
+# else:
+#     print("both lists are equal")
     
-numbers=[1,12,30]
-for in numbers:
-    print(i)
-     break
+    
+    
+
+# list1 = ["king", "queen", "joker"]
+# list2 = ["ace", "jack", "ten"]
+# if list1 > list2:
+#     print("list 1 is greater")
+# elif list2 > list1:
+#     print("list 2 is greater")
+# else:
+#     print("both lists are equal")
+    
+    
+    
+# Bikes =["Unicorn","cbz","pulsar","ninja kawasakhi"]
+# for fruit in Bikes:
+#     print(Bikes)
+
+# Ac = ["Daikin","lloyd","onida","kube","lg"]
+# for bikes in Ac:s
+#      print(Ac)
+     
+# for x in "Ninjakawasakhi":
+#     print(x)
+    
+    
+# cricketers=["kapil","sachin","dhoni"]
+# for x in cricketers:
+#     print(x)
+# if x =="sachin":
+#      break
  
+ 
+# heroes=["ram","mahesh","nagarjuna","ramcharna","nani"]
+# for x in heroes:
+#     print(x)
+# if x == "ramcharan":
+#    'continue'
+   
+
+# numbers=[1,800,300,400,500,700]
+# for i in numbers:
+#     print(i)
+# if i == "300":
+#     'break'
+    
+    
+# for i in range(20):
+#     print(i)
+    
+
+
+# for i in "Sachin Tendulkar":
+#     print(i)
+    
+
+# mobiles=["iqoo","1+","samsung","redmi","appo","moto"]
+# for mobile in mobiles:
+#     print(mobile)
+#     if  mobile == "samsung":
+#         break
+    
+
+
+# my_list=[362,1978,453,1945,23,0,-10,]
+# for my_list in my_list:
+#     if my_list%2 == 0:
+#      print(my_list)
+
+
+# my_list=[400,720,1918,1930,1766,-2]
+# for my_list in my_list:
+#     if my_list%2 == 0:
+#       print(my_list)
+
+
+# name = input("Enter your name: ")
+# print("Hello, " + name)
+
+
+
+
+ age = input("enter you age")
+print("Rohith, " + name)
+
+
+
+
+
+
+
+
